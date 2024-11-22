@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickstrijbos. I am a Lead DevOps Engineer @ Knab
+- 👋 Hi, I’m @nickstrijbos. I am a senior Platform / DevOps Engineer @ Knab
 - 👀 I’m interested in Cloud platforms such as Azure, AWS and DevOps toolings. 
 - 🌱 I’m currently learning Go.
 
